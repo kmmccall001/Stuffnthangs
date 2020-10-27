@@ -2,6 +2,7 @@
     <string name="app_name">PetTheCat</string>
 
     <string-array name="animals">
+        <item>Please choose an animal to pet</item>
         <item>Cat</item>
         <item>Duck</item>
         <item>Raven</item>
